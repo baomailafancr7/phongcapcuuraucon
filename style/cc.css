@@ -1,0 +1,28 @@
+/* CSS Document */
+*{margin:auto}
+.khung{
+	width:960px;
+	height:120px;
+	border: solid 1px;
+}
+.anh{
+	width:960px;
+}
+.bd li{
+	display:inline;
+	float:left;
+	padding-left: 5px;
+	padding-right: 10px;
+	
+}
+.bd li a{
+	text-decoration: none;
+	color:#000000;
+}
+.phai{
+	float:right;
+	padding-right: 10px;
+}
+.bd li a:hover{
+	color:#FF0004;
+}
